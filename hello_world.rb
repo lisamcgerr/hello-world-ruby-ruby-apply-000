@@ -1,4 +1,3 @@
 puts "Hello World!"
 ruby hello_world.ruby
-filter_parameter_logging
-ruby hello_world.ruby
+
